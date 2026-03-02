@@ -1,6 +1,6 @@
-# ☕ Bean Sales Analysis
+# ☕ Coffee Shop Sales Analysis
 
-An interactive *Bean Sales Analysis Dashboard* designed to analyze retail sales data and generate actionable business insights.
+An interactive *Coffee Shop Sales Analysis Dashboard* designed to analyze retail sales data and generate actionable business insights.
 This project helps understand customer behavior, sales trends, product performance, and store-level comparisons using visual analytics.
 
 ---
@@ -29,7 +29,7 @@ The main objective of this project is to analyze retail sales data to gain actio
 
 *Dashboard Screenshot*
 
-![Dashboard Preview](https://github.com/AasthaAhirkar/Coffee_Shop_Sales_Analysis/blob/main/Dashboard.png)
+![Dashboard Preview](https://github.com/AasthaAhirkar/Coffee_Shop_Sales_Analysis/blob/main/Dashboard_SS.png)
 
 
 ---
